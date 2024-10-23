@@ -14,7 +14,7 @@ The command below will compile all `.scss` files from the `./sass` folder and pu
 
 `sass --watch sass:css`
 
-The command bellow will compile all `.ts` files inside the `./ts` folder  and put it inside the `./js` folder as `.js` files.
+The command below will compile all `.ts` files inside the `./ts` folder  and put it inside the `./js` folder as `.js` files.
 
 `tsc -w`
 
@@ -32,7 +32,7 @@ Follow the steps below in order to create your own page on The Design Web.
 9. Compile the typescript files.
 10. Most important step: Design your styleguide, have fun with this!
 11. When finished, checkout to a new branch with git.
-12. Push the the changes to your new branch. 
+12. Push the changes to your new branch. 
 13. Go to the forked repo on GitHub, on your account. 
 14. Create a new pull request to merge with the main repository. 
 15. Wait unitl the owner approves your request.
